@@ -17,6 +17,11 @@ body
     border-radius: 5px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
+
+.col{
+    font-size: 10px;
+}
+
 input[type="text"],input[type="password"]
 {
 width: 100%;
@@ -50,3 +55,8 @@ input[type="submit"]:hover
 button:hover{
     background-color: #45a049;
 }
+/* 
+.col{
+    text-align: start;
+    font-size: smaller;   
+} */
